@@ -4,6 +4,7 @@
  * Licensed under http://www.apache.org/licenses/LICENSE-2.0
  */
 @media (min-width: 1366px) {
+  
   .col-xlg-1, .col-xlg-2, .col-xlg-3, .col-xlg-4, .col-xlg-5, .col-xlg-6, .col-xlg-7, .col-xlg-8, .col-xlg-9, .col-xlg-10, .col-xlg-11, .col-xlg-12 {
     float: left;
   }
@@ -162,6 +163,7 @@
   }
 }
 @media (min-width: 1920px) {
+    .container{ 1320px}/*MAX size container for bigger screens*/
   .col-fhd-1, .col-fhd-2, .col-fhd-3, .col-fhd-4, .col-fhd-5, .col-fhd-6, .col-fhd-7, .col-fhd-8, .col-fhd-9, .col-fhd-10, .col-fhd-11, .col-fhd-12 {
     float: left;
   }
