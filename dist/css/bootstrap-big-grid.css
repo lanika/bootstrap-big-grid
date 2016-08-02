@@ -163,7 +163,7 @@
   }
 }
 @media (min-width: 1920px) {
-    .container{ 1320px}/*MAX size container for bigger screens*/
+    .container{width:1320px;}/*MAX size container for bigger screens*/
   .col-fhd-1, .col-fhd-2, .col-fhd-3, .col-fhd-4, .col-fhd-5, .col-fhd-6, .col-fhd-7, .col-fhd-8, .col-fhd-9, .col-fhd-10, .col-fhd-11, .col-fhd-12 {
     float: left;
   }
